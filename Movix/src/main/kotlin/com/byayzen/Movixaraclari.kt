@@ -14,7 +14,7 @@ import android.content.Context
 
 
 object MovixHelper {
-    var dynamicurl = "https://movix.cash"
+    var dynamicurl = "https://movix.tax"
     val prefname = "movix_prefs"
     val domainkey = "movix_domain"
 
