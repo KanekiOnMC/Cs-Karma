@@ -516,14 +516,14 @@
     {
         "url": "https://raw.githubusercontent.com/KanekiOnMC/Cs-Karma/builds/Movix.cs3",
         "status": 1,
-        "version": 14,
+        "version": 15,
         "name": "Movix",
         "internalName": "Movix",
         "authors": [
             "ByAyzen"
         ],
         "description": "Explorez les films, s\u00e9ries, collections, alertes et recommandations Movix.",
-        "fileSize": 81682,
+        "fileSize": 81683,
         "repositoryUrl": "https://github.com/KanekiOnMC/Cs-Karma",
         "language": "fr",
         "tvTypes": [
@@ -532,7 +532,7 @@
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.rodeo/&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-ec8241a20bd14b4cbeda11f5ab4189e44dd89294f2da1a8c3dc9dd645b99850c"
+        "fileHash": "sha256-65fba75c1570e20c42d7aae20bbe37f1f59075fc713eaafde438de8325bd022c"
     },
     {
         "url": "https://raw.githubusercontent.com/KanekiOnMC/Cs-Karma/builds/OK.cs3",
