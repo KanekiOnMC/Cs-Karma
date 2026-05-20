@@ -516,7 +516,7 @@
     {
         "url": "https://raw.githubusercontent.com/KanekiOnMC/Cs-Karma/builds/Movix.cs3",
         "status": 1,
-        "version": 13,
+        "version": 14,
         "name": "Movix",
         "internalName": "Movix",
         "authors": [
@@ -532,7 +532,7 @@
         ],
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://movix.rodeo/&size=128",
         "apiVersion": 1,
-        "fileHash": "sha256-8a789f774261064a9b3cd32c50f95cf92493e5db52835b2553c2071df3e5476c"
+        "fileHash": "sha256-303beddbe32cc196db3e49948948c296e90dfc7a04694cf67d2326302c12c860"
     },
     {
         "url": "https://raw.githubusercontent.com/KanekiOnMC/Cs-Karma/builds/OK.cs3",
